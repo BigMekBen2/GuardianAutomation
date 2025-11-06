@@ -1,0 +1,8 @@
+"Bungie": {
+  "ClientId": "Paste client ID from Bungie.NET developer portal for your application",
+  "ApiKey": "Paste API key from Bungie.NET developer portal for your application",
+  "RedirectUri": "https://localhost:5001/"
+  // Notes: Make sure to replace the placeholder text with your actual Bungie.NET application credentials. 
+  // Rename the file to appSettings.json after editing.
+  // Then, go to properties of appSettings.json and set 'Copy to Output Directory' to 'Copy if newer'.
+}
